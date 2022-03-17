@@ -6,20 +6,20 @@
 
 - 👨‍💻 All of my projects are available at [https://gautam-portfolio.vercel.app/](https://gautam-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@gautam.verma095](https://medium.com/@gautam.verma095)
+- 📝 I regularly write articles on [Click Here](https://medium.com/@gautam.verma095)
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
 
 - 📫 How to reach me **gautam.verma095@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14xZjMhIR0Pulxv_tGRNasrMJf5r3pSb9/view](https://drive.google.com/file/d/14xZjMhIR0Pulxv_tGRNasrMJf5r3pSb9/view)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/14xZjMhIR0Pulxv_tGRNasrMJf5r3pSb9/view)
 
 - ⚡ Fun fact **Sweating while coding and workout both.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gautamverma095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamverma095" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-verma-a0b6a4135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-verma-a0b6a4135/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautam-verma-a0b6a4135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-verma-a0b6a4135/" height="30" width="40" /></a>
 <a href="https://medium.com/@gautam.verma095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gautam.verma095" height="30" width="40" /></a>
 </p>
 
