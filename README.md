@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gautam.verma095@gmail.com**
 
-- 📄 Know about my experiences [Click Here]([https://drive.google.com/file/d/14xZjMhIR0Pulxv_tGRNasrMJf5r3pSb9/view](https://drive.google.com/drive/u/0/folders/13iHvlnRKmLZ0Dp908FY266BW5VFemEqV))
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/13iHvlnRKmLZ0Dp908FY266BW5VFemEqV](https://drive.google.com/drive/u/1/folders/13iHvlnRKmLZ0Dp908FY266BW5VFemEqV)
 
 - ⚡ Fun fact **Sweating while coding and workout both.**
 
