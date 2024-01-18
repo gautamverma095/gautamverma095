@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React,MERN Stack**
 
-- 👨‍💻 All of my projects are available at )
-
 - 📝 I regularly write articles on [Click Here](https://medium.com/@gautam.verma095)
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
